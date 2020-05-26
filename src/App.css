@@ -1,0 +1,26 @@
+.landing-view{
+  background-image: url('./assets/ahoy.jpg');
+  
+}
+
+
+.var-text{
+  font-style: italic
+}
+
+
+
+.buttons{
+  height: 100vh;
+
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.user-bg{
+  background-image: url('./assets/Waimakariri.png');
+}
+
